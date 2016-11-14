@@ -11,6 +11,8 @@ _Sửa lại bài trainee007 với yêu cầu sau_
 1. Trang chủ thêm 1 slide chạy hiển thị 5 người dùng mới nhất đã cập nhật ảnh, caption là tên và giới thiệu nếu có. 
 2. Trang danh sách áp dụng https://datatables.net/ vào việc hiển thị danh sách.
 
+**Chú ý trước khi thực hiện: Phải tạo branch mới và làm bài trên branch mới đó, không được ảnh hưởng đến branch `master` bài trainee007 hiện tại, branch mới có tên `jquery002`**
+
 ## Part 2 : Sử dụng Jquery tạo slide
 
 Tạo 1 slide với mockup sau
