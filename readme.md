@@ -30,4 +30,4 @@ Tạo 1 slide với mockup sau
  - Hiển thị vị trí slide đang chạy bằng các chấm tròn phí dưới, slide đang hiển thị ở vị trí bao nhiêu thì chấm tròn đó sẽ là màu khác(có thể là màu trắng).
  - Có biến để tùy chọn : hiển thị thumnail khi hover nút mũi tên hay không, có hiển thị các chấm tròn biểu thị vị trí slide đang hiển thị hay không, _tùy chọn kiểu chuyển slide_.
 
-![Level 2](Normal.png)
+![Level 2](Level 2.png)
